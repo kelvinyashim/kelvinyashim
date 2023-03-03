@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelvinyashim
 - A junior Software Developer (still learning)
 - 👀 I’m interested in ... web development, mobile dev, 
-- 🌱 I’m currently learning ...JAVASCRIPT
+- 🌱 I’m currently learning ...Flutter
 - 💞️ I’m looking to collaborate on ...WEB DESIGNS
 - 📫 How to reach me ...09018300339
 
