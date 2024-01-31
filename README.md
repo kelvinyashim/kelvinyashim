@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kelvinyashim
-- A junior Software Developer
+- An intermediate Software Developer
 - 👀 I’m interested in ... mobile dev and web development,
 - 🌱 I’m currently learning ...Web dev
 - 💞️ I’m looking to collaborate on ...building mobile apps
